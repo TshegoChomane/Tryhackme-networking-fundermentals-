@@ -1,0 +1,67 @@
+# TryHackMe: Netowrk-fundermentals
+
+## Overview
+
+* Platform: TryHackMe
+* Topic:** Netowrk-fundermentals
+* Date completed:[***]
+* Difficulty:** [***]
+
+## What I learned
+
+* 
+* 
+* 
+* 
+
+## Commands practiced
+
+### 1. Print working directory
+
+```bash
+pwd
+```
+
+**Purpose:** Shows the current working directory.
+
+### 2. List files
+
+```bash
+ls -la
+```
+
+**Purpose:** Lists files, including hidden files, with additional details.
+
+### 3. Change directory
+
+```bash
+cd /path/to/directory
+```
+
+**Purpose:** Navigates to a specified directory.
+
+### 4. Read a file
+
+```bash
+cat filename.txt
+```
+
+**Purpose:** Displays the contents of a text file.
+
+## Challenges encountered
+
+[Describe a problem you encountered and how you solved it.]
+
+## Security relevance
+
+Understanding Linux commands helps with navigating servers, investigating system activity, and performing basic security investigations.
+
+## Key takeaway
+
+[Write the most important thing you learned.]
+
+## Next steps
+
+* Practice the commands in a Linux terminal.
+* Continue with the next TryHackMe room.
+* Review Linux permissions and ownership.
