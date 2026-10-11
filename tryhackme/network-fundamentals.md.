@@ -1,0 +1,20 @@
+TryHackMe — Network Fundamentals
+
+Overview
+
+Platform: TryHackMe
+Room: Network Fundamentals
+Category: Networking
+Status: Completed
+Focus: Understanding the fundamentals of computer networking
+What I Learned
+
+Through this learning experience, I studied fundamental networking concepts, including:
+
+OSI Model: The seven layers used to understand network communication.
+TCP/IP: The protocol suite that enables devices to communicate across networks.
+IP Addresses: How devices are logically identified on a network.
+MAC Addresses: Hardware-level addressing used for communication on local networks.
+Ports and Protocols: How network services communicate using protocols and port numbers.
+Network Devices: The roles of switches and routers in connecting devices and networks.
+Network Troubleshooting: Understanding networking concepts that help identify connectivity issues.
